@@ -29,3 +29,7 @@ See [docs/Requirements.md](docs/Requirements.md), [docs/Class_Model.md](docs/Cla
 [docs/SOLID_Reflection.md](docs/SOLID_Reflection.md) and
 [docs/Object_Relationships.md](docs/Object_Relationships.md) for the design
 writeup.
+
+## Branching
+
+`main` is the stable branch; changes are proposed through pull requests from `staging`.
